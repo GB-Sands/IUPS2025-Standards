@@ -17,9 +17,11 @@ Glossary and links for standards and abbreviations
 | LOINC | Logical Observation Identifier Names and Codes | <https://loinc.org/> |
 | NFDI4Health | National Research Data Infrastructure for Personal Health Data | <https://www.nfdi4health.de/en/service/health-study-hub/publication-policy-and-metadata-schema.html> |
 | PIDINST | Persistent Identification of Instruments | <https://www.pidinst.org/> |
+| PMR | Physiome Model Repository | <https://www.cellml.org/tools/pmr/> |
 | pycamset | Multicamera calibration framework | <https://github.com/rlav440/pyCamSet> |
 | SEEK | Dataset storage framework | <https://seek4science.org/> |
 | SNOMED CT | Systematized Medical Nomenclature for Medicine–Clinical Terminology | <https://www.snomed.org/what-is-snomed-ct> |
+| SPARC | An open community platform for physiology data, computational and spatial modelling | <https://sparc.science/> |
 | UBERON | Uber Anatomy Ontology | <https://bioportal.bioontology.org/ontologies/UBERON/>
 | UCUM | Unified Codes for Units of Measure | <https://ucum.org/> |
 
