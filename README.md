@@ -25,4 +25,4 @@ Glossary and links for standards and abbreviations
 | UBERON | Uber Anatomy Ontology | <https://bioportal.bioontology.org/ontologies/UBERON/>
 | UCUM | Unified Codes for Units of Measure | <https://ucum.org/> |
 
-### IUPS 2025
+## IUPS 2025
